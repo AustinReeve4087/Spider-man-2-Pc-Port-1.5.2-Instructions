@@ -1,0 +1,64 @@
+Hello Guys.
+
+In this video, I will show you how to download Spider-Man 2 in pc.
+
+Download link and pc requirement will be in the video.
+
+Go to my GitHub for all the files and links for installation.
+
+Game website link: https://game-repack.site/2024/07/06/marvels-spider-man-2/
+
+Game download link (In Parts) v1.5.1 - https://pastebin.com/kCBBYUDc
+
+Update file v1.5.2 link: https://www.swiftuploads.com/DM2BGwoMGj40/file
+
+Please follow all the below steps to install it properly.
+
+1. Download the file's from torrent or your preferred way. I have downloaded the file's in my pc and you can skip the additional languages pack and optional bonus content if you don't want it.
+
+2. Go to the downloaded folder and run the setup and press up button in keyboard.
+
+3. Install the game in your preferred drive.
+
+Note: install the game in the highest storage speed. Minimum: Sata SSD 450MB/s & Maximum: M.2 SSD 2500MB/s
+
+4. After installation completes, Go to game installed folder and right click on "SM2Launcher" and run it as administrator.
+
+5. Click on settings and make sure it does not show "Game is currently installed on slow storage (HDD/USB)". If it shows this error then uninstall the game from the installed drive and install the game in other fastest drive.
+
+6. Once you choose all the required settings based on your pc specification, Click on "OK".
+
+7. Connect any Controller\Joystick\Gamepad using Bluetooth or usb wired to pc.
+
+Note: Am going through the below steps because am connecting an Ps5 controller. If you have connect an xbox or usb wired controller then move to step 12 directly after connecting the controller.
+
+8. Download "Ds4 windows" from the below link and after extraction, install it on pc. 
+
+Download Link: https://ds4-windows.com/download/ryochan7-ds4windows/
+
+9. Open the ds4 windows app. let the controller status load in screen then minimise the application. Note: This is only required for "Ps4/Ps5 controllers"
+
+10. Click on "Start Game" and Wait 10-30 seconds to load the full game and set to full screen automatically.
+
+11. Go to "Option/Settings" and Under "Visuals" turn off "FullScreen Effects".
+
+            ------Enjoy the game------
+
+**************Game issues and fixes**************
+
+Q. What to do if you fall through ground?
+A. Check which drive you have installed the game, it must meet the required speed to load the game faster.
+
+Q. What to do if game closes automatically?
+A. Open task manager and close all the background running programs.
+
+Q. What to do if game glitches or missing graphics?
+A. Go to "Option/Settings" and Under "Visuals" turn off "FullScreen Effects".
+
+************************************
+
+Thank you for watching this video. Be sure to Like, Subscribe and Share it with your dear ones to support my channel.
+
+Comment if you have any questions and i will gladly assist you. 
+
+Hope you guys have a wonderful day ahead.
